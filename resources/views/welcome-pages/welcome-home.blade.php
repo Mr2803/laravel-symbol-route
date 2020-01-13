@@ -2,5 +2,6 @@
 
 @section('myContent')
     
-    <img src="{{url('/img/birds.jpg')}}" alt="">
+    
+    <img src="{{url('/img/homepage.jpg')}}" alt="">
 @endsection

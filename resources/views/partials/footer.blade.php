@@ -38,7 +38,7 @@
 
   <!-- Copyright -->
   <div class="footer-copyright text-center py-3">© 2020 Copyright:
-    <a href="https://mdbootstrap.com/education/bootstrap/"> Marco Rispoli</a>
+    <a href="https://github.com/Mr2803" target="_blank"> Marco Rispoli</a>
   </div>
   <!-- Copyright -->
 

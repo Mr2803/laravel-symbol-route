@@ -2,5 +2,5 @@
 
 @section('myContent')
     
-    <p>Test Prima pagina</p>
+    <img src="{{url('/img/foglie.jpg')}}" alt="">
 @endsection

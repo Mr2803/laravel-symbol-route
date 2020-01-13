@@ -11,9 +11,7 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/',"MyController@welcomeHomePage");
 
 Route::get('/page1', "MyController@welcomeFirstPage");
 Route::get('/page2', "MyController@welcomeSecondPage");
